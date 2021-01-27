@@ -1,3 +1,7 @@
+## 0.8.3
+
+- Upgrading FBSDKCoreKit to 9.0.0 and min iOS to 9.0
+
 ## 0.8.2
 
 - Upgrading FBSDKCoreKit to 8.2.0 as described in [issue #56](https://github.com/oddbit/flutter_facebook_app_events/issues/56) 
